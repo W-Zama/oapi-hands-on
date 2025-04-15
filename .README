@@ -1,0 +1,1 @@
+ oapi-codegen -generate types,server -package api openapi.yaml > api/api.gen.go
